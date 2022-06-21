@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "refined-GitRepo-analyzer",
+    "slug": "refined-GitRepo-analyzer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/gitRepo.png",
+      "resizeMode": "cover"
+    }
+  }
+}
